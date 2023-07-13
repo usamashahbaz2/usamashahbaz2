@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usamashahbaz2
 - 👀 I’m interested in all languages 
-- 🌱 I’m currently learning c++,html/html5,css,js
+- 🌱 I’m currently learning c++,html/html5,css,js,pythoon
 - 💞️ I’m looking to collaborate on above languages
 - 📫 How to reach me (inbox)
 
